@@ -1,0 +1,17 @@
+E:\Csharp\CalcApp\bin\Debug\net8.0-windows\CalcApp.exe
+E:\Csharp\CalcApp\bin\Debug\net8.0-windows\CalcApp.deps.json
+E:\Csharp\CalcApp\bin\Debug\net8.0-windows\CalcApp.runtimeconfig.json
+E:\Csharp\CalcApp\bin\Debug\net8.0-windows\CalcApp.dll
+E:\Csharp\CalcApp\bin\Debug\net8.0-windows\CalcApp.pdb
+E:\Csharp\CalcApp\obj\Debug\net8.0-windows\CalcApp.Form1.resources
+E:\Csharp\CalcApp\obj\Debug\net8.0-windows\CalcApp.csproj.GenerateResource.cache
+E:\Csharp\CalcApp\obj\Debug\net8.0-windows\CalcApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\CalcApp\obj\Debug\net8.0-windows\CalcApp.AssemblyInfoInputs.cache
+E:\Csharp\CalcApp\obj\Debug\net8.0-windows\CalcApp.AssemblyInfo.cs
+E:\Csharp\CalcApp\obj\Debug\net8.0-windows\CalcApp.csproj.CoreCompileInputs.cache
+E:\Csharp\CalcApp\obj\Debug\net8.0-windows\CalcApp.dll
+E:\Csharp\CalcApp\obj\Debug\net8.0-windows\refint\CalcApp.dll
+E:\Csharp\CalcApp\obj\Debug\net8.0-windows\CalcApp.pdb
+E:\Csharp\CalcApp\obj\Debug\net8.0-windows\CalcApp.genruntimeconfig.cache
+E:\Csharp\CalcApp\obj\Debug\net8.0-windows\ref\CalcApp.dll
+E:\Csharp\CalcApp\obj\Debug\net8.0-windows\CalcApp.sourcelink.json
